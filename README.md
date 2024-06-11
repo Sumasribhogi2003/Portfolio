@@ -1,4 +1,4 @@
-#My_Portfolio
+**My_Portfolio**
 Welcome to my portfolio! This repository showcases my projects, skills and internships in the field of software development. Whether you're a potential employer, collaborator, or just curious about my work, you'll find everything you need to know right here.
 
 #About Me
